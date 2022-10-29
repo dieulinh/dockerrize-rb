@@ -36,7 +36,6 @@ gem 'jbuilder', '~> 2.5'
 # gem 'capistrano-rails', group: :development
 
 # Reduces boot times through caching; required in config/boot.rb
-gem 'bootsnap', '>= 1.1.0', require: false
 gem 'sidekiq', '~>6.0.0'
 
 gem 'pg', '~>1.1.3'
